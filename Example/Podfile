@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SFCategoryKit_Example' do
+  pod 'SFCategoryKit', :path => '../'
+
+  target 'SFCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
