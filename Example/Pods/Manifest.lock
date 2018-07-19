@@ -1,0 +1,16 @@
+PODS:
+  - SFCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - SFCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  SFCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SFCategoryKit: 4bb4b7474d195b73baa20b09ae815dc509dd251d
+
+PODFILE CHECKSUM: 7d1c72430c0b323370d3f12b31b4041404cd8ffa
+
+COCOAPODS: 1.5.3

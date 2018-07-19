@@ -1,0 +1,6 @@
+framework module SFCategoryKit {
+  umbrella header "SFCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
